@@ -38,7 +38,7 @@ Exception 처리코드를 compiler가 check
 
 # NullPointerException(NPE)
 객체 참조가 없는 상태,즉 null 값을 가지고 있는 참조 변수로 객체 접근 연산자인 도트(.)를 사용했을때 발생(객체를 사용하려 하였으나 객체가 없는 상태이기 때문에 발생하는 에러)
-```
+```java
 public class NullPointerExceptionExample {
 	public static void main(String[] args) {
     	String data = null;
@@ -46,6 +46,8 @@ public class NullPointerExceptionExample {
     }
  }
 ```
+![화면 캡처 2023-02-02 135022](https://user-images.githubusercontent.com/96284736/216243360-c82e7e2a-4f0f-4bba-b2fd-9f7664503055.png)
+
 
 # 예외 처리
 >try catch finally
