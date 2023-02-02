@@ -81,6 +81,15 @@ void method1() throws Exception1, Exception2, ... ExceptionN {
 }
 ```
 
+## 예외 발생시키기
+>throw  
+
+예외를 발생시킬 때는 new를 통해 예외를 만들고 throw로 만든 예외를 발생시킨다.
+```java
+Exception e = new Exception("고의적인 예외")  // 예외 객체 생성
+throw e;  // 고의로 만든 예외 발생
+```
+
 ## 컴파일
 개발자가 작성한 소스코드를 컴파일하여 기계어로 변환하는 과정
 ## 런타임
