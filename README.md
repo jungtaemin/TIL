@@ -9,10 +9,11 @@
 * 빌드패턴(GoF의 디자인패턴)
 
 ## JAVA
-* 인터페이스
+* [인터페이스](https://github.com/jungtaemin/TIL/blob/main/Java/Interface.md)
 * [Object 메소드](https://github.com/jungtaemin/TIL/blob/main/Java/ObjectMethod.md)
 * [Exception](https://github.com/jungtaemin/TIL/blob/main/Java/Exception.md)
 * 자바 메모리
+* enum(자바5)
 * 제네릭(자바5)
 * 람다(자바8)
 * Optional(자바8)
