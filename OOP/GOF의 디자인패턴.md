@@ -3,7 +3,7 @@
 ## 종류
 * 객체 생성 관련 디자인 패턴
     * [**싱글톤 패턴**](https://github.com/jungtaemin/TIL/blob/main/OOP/%EC%8B%B1%EA%B8%80%ED%86%A4%20%ED%8C%A8%ED%84%B4.md)
-    * [**벌더 패턴**](https://github.com/jungtaemin/TIL/blob/main/%EA%B0%9D%EC%B2%B4%20%EC%83%9D%EC%84%B1/%EB%B9%8C%EB%93%9C%ED%8C%A8%ED%84%B4.md) 
+    * [**빌더 패턴**](https://github.com/jungtaemin/TIL/blob/main/%EA%B0%9D%EC%B2%B4%20%EC%83%9D%EC%84%B1/%EB%B9%8C%EB%93%9C%ED%8C%A8%ED%84%B4.md) 
     * [**팩토리 메소드 패턴**]() - 미작성
     * [**추상 팩토리 패턴**]() - 미작성
     * [**프로토타입 패턴**]() - 미작성
