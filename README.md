@@ -16,13 +16,13 @@
 * [enum(자바5)](https://github.com/jungtaemin/TIL/blob/main/Java/enum.md) - 책 이펙티브 자바 3/E 참고
 * 제네릭(자바5)
 * [함수형 인터페이스(자바8)](https://github.com/jungtaemin/TIL/blob/main/Java/%ED%95%A8%EC%88%98%ED%98%95%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4.md)
-* 람다(자바8) - 책 모던 자바 인 액션 참고
+* [람다(자바8)](https://github.com/jungtaemin/TIL/blob/main/Java/%EB%9E%8C%EB%8B%A4.md) - 책 모던 자바 인 액션 참고
 * [메소드 참조(자바8)](https://github.com/jungtaemin/TIL/blob/main/Java/%EB%A9%94%EC%86%8C%EB%93%9C%20%EC%B0%B8%EC%A1%B0.md) - 책 모던 자바 인 액션 참고
-* Optional(자바8) - 책 모던 자바 인 액션 참고  
+* [Optional(자바8)](https://github.com/jungtaemin/TIL/blob/main/Java/Optional.md) - 책 모던 자바 인 액션 참고  
 * [리플렉션](https://github.com/jungtaemin/TIL/blob/main/Java/%EB%A6%AC%ED%94%8C%EB%A0%89%EC%85%98.md)
 * [collection,comparator 메소드](https://github.com/jungtaemin/TIL/blob/main/Java/collection%2Ccomparator%20%EB%A9%94%EC%86%8C%EB%93%9C.md)
 * [Object 메소드](https://github.com/jungtaemin/TIL/blob/main/Java/ObjectMethod.md)
-* [String 메소드]()
+* [String 메소드](https://github.com/jungtaemin/TIL/blob/main/Java/String%20%EB%A9%94%EC%86%8C%EB%93%9C.md)
 * [Exception](https://github.com/jungtaemin/TIL/blob/main/Java/Exception.md)  
 최신 롱텀 서포트 버전은 자바 17버전  
 자바 롱텀 서포트 버전 8 11 17 중 11 17 추천 8 오래됨
