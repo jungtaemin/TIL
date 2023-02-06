@@ -33,7 +33,7 @@ name.removeIf(s ->s.startsWith("k"));
 * static nullFirst() / nullsLast()
 * static comparing()
 
-
+## 기존 메서드
 ### HashMap
 * put(K key, V value)  
 HashMap에 Key, Value을 삽입하는 메소드입니다.

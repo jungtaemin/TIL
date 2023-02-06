@@ -11,6 +11,7 @@
 ## JAVA
 * [인터페이스](https://github.com/jungtaemin/TIL/blob/main/Java/Interface.md)
 * [자바 메모리](https://github.com/jungtaemin/TIL/blob/main/Java/%EC%9E%90%EB%B0%94%20%EB%A9%94%EB%AA%A8%EB%A6%AC.md)
+* [가비지 컬렉션]()
 * [객체 직렬화](https://github.com/jungtaemin/TIL/blob/main/Java/%EA%B0%9D%EC%B2%B4%20%EC%A7%81%EB%A0%AC%ED%99%94.md)
 * [enum(자바5)](https://github.com/jungtaemin/TIL/blob/main/Java/enum.md) - 책 이펙티브 자바 3/E 참고
 * 제네릭(자바5)
