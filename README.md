@@ -10,16 +10,16 @@
 
 ## JAVA
 * [인터페이스](https://github.com/jungtaemin/TIL/blob/main/Java/Interface.md)
-* 자바 메모리
-* 객체 직렬화
+* [자바 메모리](https://github.com/jungtaemin/TIL/blob/main/Java/%EC%9E%90%EB%B0%94%20%EB%A9%94%EB%AA%A8%EB%A6%AC.md)
+* [객체 직렬화](https://github.com/jungtaemin/TIL/blob/main/Java/%EA%B0%9D%EC%B2%B4%20%EC%A7%81%EB%A0%AC%ED%99%94.md)
 * [enum(자바5)](https://github.com/jungtaemin/TIL/blob/main/Java/enum.md) - 책 이펙티브 자바 3/E 참고
 * 제네릭(자바5)
-* 함수형 인터페이스(자바8)
+* [함수형 인터페이스(자바8)](https://github.com/jungtaemin/TIL/blob/main/Java/%ED%95%A8%EC%88%98%ED%98%95%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4.md)
 * 람다(자바8) - 책 모던 자바 인 액션 참고
-* 메소드 참조(자바8) - 책 모던 자바 인 액션 참고
+* [메소드 참조(자바8)](https://github.com/jungtaemin/TIL/blob/main/Java/%EB%A9%94%EC%86%8C%EB%93%9C%20%EC%B0%B8%EC%A1%B0.md) - 책 모던 자바 인 액션 참고
 * Optional(자바8) - 책 모던 자바 인 액션 참고  
 * [리플랙션](https://github.com/jungtaemin/TIL/blob/main/Java/%EB%A6%AC%ED%94%8C%EB%9E%99%EC%85%98.md)
-* collection,comparator 메소드
+* [collection,comparator 메소드](https://github.com/jungtaemin/TIL/blob/main/Java/collection%2Ccomparator%20%EB%A9%94%EC%86%8C%EB%93%9C.md)
 * [Object 메소드](https://github.com/jungtaemin/TIL/blob/main/Java/ObjectMethod.md)
 * [Exception](https://github.com/jungtaemin/TIL/blob/main/Java/Exception.md)  
 최신 롱텀 서포트 버전은 자바 17버전  
