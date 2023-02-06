@@ -32,3 +32,46 @@ name.removeIf(s ->s.startsWith("k"));
 * static reverseOrder() / naturalOrder()
 * static nullFirst() / nullsLast()
 * static comparing()
+
+
+### HashMap
+* put(K key, V value)  
+HashMap에 Key, Value을 삽입하는 메소드입니다.
+```java
+map.put("신논현", 1);
+map.put("강남", 2);
+map.put("혜화", 3);
+map.put("안양", 4);
+map.put("수원", 5);
+```
+각 Key, Value에 대한 타입에 맞게 선헌하면 map 객체에 저장됩니다.
+
+* containsKey(Object Key)
+
+
+```java
+HashMap<String , Integer> map = new HashMap<String , Integer>();
+
+    map.put("신논현", 1);
+    map.put("강남", 2);
+    map.put("혜화", 3);
+    map.put("안양", 4);
+    map.put("수원", 5);
+
+    System.out.println(map.containsKey("혜화"));
+```
+만약 엘리먼트 내에 Key가 포함되어있다면 boolean 값으로 true, 아니라면 false가 리턴됩니다.
+* containsValue(Object Value)
+
+```java
+HashMap<String , Integer> map = new HashMap<String , Integer>();
+
+    map.put("신논현", 1);
+    map.put("강남", 2);
+    map.put("혜화", 3);
+    map.put("안양", 4);
+    map.put("수원", 5);
+
+    System.out.println(map.containsValue(5));
+```
+containsKey와 마찬가지로 엘리먼트 내에 Value가 포함되어있다면 boolean 값으로 true, 아니라면 false가 리턴됩니다.
