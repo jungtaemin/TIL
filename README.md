@@ -19,7 +19,7 @@
 * 람다(자바8) - 책 모던 자바 인 액션 참고
 * [메소드 참조(자바8)](https://github.com/jungtaemin/TIL/blob/main/Java/%EB%A9%94%EC%86%8C%EB%93%9C%20%EC%B0%B8%EC%A1%B0.md) - 책 모던 자바 인 액션 참고
 * Optional(자바8) - 책 모던 자바 인 액션 참고  
-* [리플랙션](https://github.com/jungtaemin/TIL/blob/main/Java/%EB%A6%AC%ED%94%8C%EB%9E%99%EC%85%98.md)
+* [리플렉션](https://github.com/jungtaemin/TIL/blob/main/Java/%EB%A6%AC%ED%94%8C%EB%9E%99%EC%85%98.md)
 * [collection,comparator 메소드](https://github.com/jungtaemin/TIL/blob/main/Java/collection%2Ccomparator%20%EB%A9%94%EC%86%8C%EB%93%9C.md)
 * [Object 메소드](https://github.com/jungtaemin/TIL/blob/main/Java/ObjectMethod.md)
 * [Exception](https://github.com/jungtaemin/TIL/blob/main/Java/Exception.md)  
