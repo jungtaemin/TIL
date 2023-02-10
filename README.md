@@ -7,6 +7,7 @@
 ## 객체 생성
 * [정적 팩터리 메서드(이펙티브 자바)](https://github.com/jungtaemin/TIL/blob/main/%EA%B0%9D%EC%B2%B4%20%EC%83%9D%EC%84%B1/%EC%A0%95%EC%A0%81%20%ED%8C%A9%ED%84%B0%EB%A6%AC%20%EB%A9%94%EC%84%9C%EB%93%9C.md)
 * [빌드패턴(GoF의 디자인패턴)](https://github.com/jungtaemin/TIL/blob/main/%EA%B0%9D%EC%B2%B4%20%EC%83%9D%EC%84%B1/%EB%B9%8C%EB%93%9C%ED%8C%A8%ED%84%B4.md)
+* [인스턴스화를 막으려거든 private 생성자를 사용하라]()(책 이펙티브자바 아이템4)
 
 ## JAVA
 * [인터페이스](https://github.com/jungtaemin/TIL/blob/main/Java/Interface.md)
