@@ -9,7 +9,7 @@ public class UtilityClass{
 
   public static void main(String[] args){
     //static만 있는 클래스는 이것도 가능하지만
-    String hello = UtilityClass = new UtilityClass();
+    String hello = UtilityClass.hello();
     //이것도 가능하다.기본생성자가 기본으로 생기기때문.그래서 애초에 막아두는게 좋다.
     UtilityClass utilityClass = new UtilityClass();
     utilityClass.hello();
