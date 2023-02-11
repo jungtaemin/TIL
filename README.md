@@ -1,7 +1,7 @@
 # TIL
 ## Spring
-* [자원을 직접 명시하지 말고 의존 객체 주입을 사용하라.]()(책 이펙티브자바 아이템 5)
-* [IoC]()
+* [자원을 직접 명시하지 말고 의존 객체 주입을 사용하라.](https://github.com/jungtaemin/TIL/blob/main/spring/%EC%9E%90%EC%9B%90%EC%9D%84%20%EC%A7%81%EC%A0%91%20%EB%AA%85%EC%8B%9C%ED%95%98%EC%A7%80%20%EB%A7%90%EA%B3%A0%20%EC%9D%98%EC%A1%B4%20%EA%B0%9D%EC%B2%B4%20%EC%A3%BC%EC%9E%85%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.md)(책 이펙티브자바 아이템 5)
+* [IoC](https://github.com/jungtaemin/TIL/blob/main/spring/IoC.md)
 * Test(!다음직장에서 테스트 작성시 꼭 공부많이할것)
 ## OOP
 * SOLID
@@ -10,7 +10,7 @@
 * [정적 팩터리 메서드(이펙티브 자바)](https://github.com/jungtaemin/TIL/blob/main/%EA%B0%9D%EC%B2%B4%20%EC%83%9D%EC%84%B1/%EC%A0%95%EC%A0%81%20%ED%8C%A9%ED%84%B0%EB%A6%AC%20%EB%A9%94%EC%84%9C%EB%93%9C.md)
 * [빌드패턴(GoF의 디자인패턴)](https://github.com/jungtaemin/TIL/blob/main/%EA%B0%9D%EC%B2%B4%20%EC%83%9D%EC%84%B1/%EB%B9%8C%EB%93%9C%ED%8C%A8%ED%84%B4.md)
 * [인스턴스화를 막으려거든 private 생성자를 사용하라](https://github.com/jungtaemin/TIL/blob/main/%EA%B0%9D%EC%B2%B4%20%EC%83%9D%EC%84%B1/%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4%ED%99%94%EB%A5%BC%20%EB%A7%89%EC%9C%BC%EB%A0%A4%EA%B1%B0%EB%93%A0%20private%20%EC%83%9D%EC%84%B1%EC%9E%90%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.md)(책 이펙티브자바 아이템4)
-
+* 불필요한 객체 생성을 피하라(책 이펙티브자바 아이템6)
 ## JAVA
 * [인터페이스](https://github.com/jungtaemin/TIL/blob/main/Java/Interface.md)
 * [자바 메모리](https://github.com/jungtaemin/TIL/blob/main/Java/%EC%9E%90%EB%B0%94%20%EB%A9%94%EB%AA%A8%EB%A6%AC.md)
