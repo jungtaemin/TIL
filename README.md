@@ -10,7 +10,7 @@
 * [정적 팩터리 메서드(이펙티브 자바)](https://github.com/jungtaemin/TIL/blob/main/%EA%B0%9D%EC%B2%B4%20%EC%83%9D%EC%84%B1/%EC%A0%95%EC%A0%81%20%ED%8C%A9%ED%84%B0%EB%A6%AC%20%EB%A9%94%EC%84%9C%EB%93%9C.md)
 * [빌드패턴(GoF의 디자인패턴)](https://github.com/jungtaemin/TIL/blob/main/%EA%B0%9D%EC%B2%B4%20%EC%83%9D%EC%84%B1/%EB%B9%8C%EB%93%9C%ED%8C%A8%ED%84%B4.md)
 * [인스턴스화를 막으려거든 private 생성자를 사용하라](https://github.com/jungtaemin/TIL/blob/main/%EA%B0%9D%EC%B2%B4%20%EC%83%9D%EC%84%B1/%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4%ED%99%94%EB%A5%BC%20%EB%A7%89%EC%9C%BC%EB%A0%A4%EA%B1%B0%EB%93%A0%20private%20%EC%83%9D%EC%84%B1%EC%9E%90%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.md)(책 이펙티브자바 아이템4)
-* 불필요한 객체 생성을 피하라(책 이펙티브자바 아이템6)
+* [불필요한 객체 생성을 피하라](https://github.com/jungtaemin/TIL/blob/main/%EA%B0%9D%EC%B2%B4%20%EC%83%9D%EC%84%B1/%EB%B6%88%ED%95%84%EC%9A%94%ED%95%9C%20%EA%B0%9D%EC%B2%B4%20%EC%83%9D%EC%84%B1%EC%9D%84%20%ED%94%BC%ED%95%98%EB%9D%BC.md)(책 이펙티브자바 아이템6)
 ## JAVA
 * [인터페이스](https://github.com/jungtaemin/TIL/blob/main/Java/Interface.md)
 * [자바 메모리](https://github.com/jungtaemin/TIL/blob/main/Java/%EC%9E%90%EB%B0%94%20%EB%A9%94%EB%AA%A8%EB%A6%AC.md)
@@ -19,7 +19,7 @@
 * [객체 직렬화](https://github.com/jungtaemin/TIL/blob/main/Java/%EA%B0%9D%EC%B2%B4%20%EC%A7%81%EB%A0%AC%ED%99%94.md)
 * [Thread](https://github.com/jungtaemin/TIL/blob/main/Java/Thread.md)
 * [Strong,Soft,Weak,Phantom](https://github.com/jungtaemin/TIL/blob/main/Java/Strong%2CSoft%2CWeak%2CPhantom.md)
-* [캡술화](https://github.com/jungtaemin/TIL/blob/main/Java/%EC%BA%A1%EC%8A%90%ED%99%94.md)
+* [캡슐화](https://github.com/jungtaemin/TIL/blob/main/Java/%EC%BA%A1%EC%8A%90%ED%99%94.md)
 * [enum(자바5)](https://github.com/jungtaemin/TIL/blob/main/Java/enum.md) - 책 이펙티브 자바 3/E 참고
 * 제네릭(자바5)
 * [함수형 인터페이스(자바8)](https://github.com/jungtaemin/TIL/blob/main/Java/%ED%95%A8%EC%88%98%ED%98%95%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4.md)
