@@ -26,3 +26,17 @@ thread.join();
 
 ## CompletableFuture(자바8)
 자바에서 비동기 프로그래밍을 가능케하는 인터페이스.
+
+## Executors
+쓰레드는 자원을 많이먹는다.그래서 쓰레드풀을 사용해야하는데 Executors로 만들 수 있다.
+```java
+ExecutorService service = Executors.newFixedThreadPool(10);
+for(int i = 0; i <100 ; i++){
+  service.submit(new Task());
+}
+System.out.println(Thread.currentThread() + "hello");
+servvice.shutdowm();
+```
+이러면 쓰레드를 딱 10개만 쓰게된다.10개로 100개의 작업을 처리한다.10개니까 조금 버벅거리긴한다.  
+
+CPU많이 쓰는 작업은 CPU 개수만큼 만들게될것이다.

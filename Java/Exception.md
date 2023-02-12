@@ -63,8 +63,7 @@ public void updateDeliveryDate(LocalDate deliveryDate){
   
 }
 ```
-
-
+**NullPointerException이 나지않기 위해 자바8부터 나온 Optional을 사용하자**
 # IllegalArgumentException
 
 예외 던질때 사용법:예외를 던질때는 최소한 어떤 필드가 잘못되었는지 알려주는게 좋다.
