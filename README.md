@@ -16,6 +16,7 @@
 * [Thread](https://github.com/jungtaemin/TIL/blob/main/Java/Thread.md)
 * [Strong,Soft,Weak,Phantom](https://github.com/jungtaemin/TIL/blob/main/Java/Strong%2CSoft%2CWeak%2CPhantom.md)
 * [캡슐화](https://github.com/jungtaemin/TIL/blob/main/Java/%EC%BA%A1%EC%8A%90%ED%99%94.md)
+* [불편클래스](https://github.com/jungtaemin/TIL/blob/main/Java/%EB%B6%88%EB%B3%80%ED%81%B4%EB%9E%98%EC%8A%A4.md)
 * [enum(자바5)](https://github.com/jungtaemin/TIL/blob/main/Java/enum.md) - 책 이펙티브 자바 3/E 참고
 * 제네릭(자바5)
 * [함수형 인터페이스(자바8)](https://github.com/jungtaemin/TIL/blob/main/Java/%ED%95%A8%EC%88%98%ED%98%95%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4.md)
@@ -29,7 +30,8 @@
 * [Object 메소드](https://github.com/jungtaemin/TIL/blob/main/Java/ObjectMethod.md)
 * [String 메소드](https://github.com/jungtaemin/TIL/blob/main/Java/String%20%EB%A9%94%EC%86%8C%EB%93%9C.md)
 * [Exception](https://github.com/jungtaemin/TIL/blob/main/Java/Exception.md) 
-* [java.util 패키지]()   
+* [상속보다는 컴포지션을 사용하라](https://github.com/jungtaemin/TIL/blob/main/Java/%EC%83%81%EC%86%8D%EB%B3%B4%EB%8B%A4%EB%8A%94%20%EC%BB%B4%ED%8F%AC%EC%A7%80%EC%85%98%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.md)
+* [java.util 패키지](https://github.com/jungtaemin/TIL/blob/main/Java/java.util%20%ED%8C%A8%ED%82%A4%EC%A7%80.md)   
 최신 롱텀 서포트 버전은 자바 17버전  
 자바 롱텀 서포트 버전 8 11 17 중 11 17 추천 8 오래됨  
 기본적 용어 정리-[api](https://github.com/jungtaemin/TIL/blob/main/Java/%EA%B8%B0%EB%B3%B8%EC%A0%81%20%EC%9A%A9%EC%96%B4%20%EC%A0%95%EB%A6%AC.md#api)
