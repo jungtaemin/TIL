@@ -8,8 +8,8 @@
     * [**추상 팩토리 패턴**]() - 미작성
     * [**프로토타입 패턴**]() - 미작성
 * 구조 관련 디자인 패턴
-    * [**플라이웨이트 패턴**](https://github.com/jungtaemin/TIL/blob/main/OOP/%ED%94%8C%EB%9D%BC%EC%9D%B4%EC%9B%A8%EC%9D%B4%ED%8A%B8%20%ED%8C%A8%ED%84%B4.md)
     * [**데코레이터 패턴**](https://github.com/jungtaemin/TIL/blob/main/OOP/%EB%8D%B0%EC%BD%94%EB%A0%88%EC%9D%B4%ED%84%B0%20%ED%8C%A8%ED%84%B4.md)
+    * [**플라이웨이트 패턴**](https://github.com/jungtaemin/TIL/blob/main/OOP/%ED%94%8C%EB%9D%BC%EC%9D%B4%EC%9B%A8%EC%9D%B4%ED%8A%B8%20%ED%8C%A8%ED%84%B4.md)
      * [**어댑터 패턴**]() - 미작성
      * [**브릿지 패턴**]() - 미작성
      * [**컴포짓 패턴**]() - 미작성
