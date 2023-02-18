@@ -1,7 +1,7 @@
 # annotation
 자바 애너테이션을 정의하는 방법
 
-* @Retention: 애노테이션의 정보를 얼마나 오래 유지할 것인가.
+## @Retention: 애노테이션의 정보를 얼마나 오래 유지할 것인가.
   * Runtime,Source,Class
  ```java
   @Retention(RetentionPolicy.RUNTIME)
@@ -33,7 +33,7 @@
   >RetentionPolicy.SOURCE  
 
   클래스파일에서도 나는 이정보가 필요없다.소스 코드이해를돕기위한 주석같은거다.바이트코드에도 참조할수없음.
-* @Target: 애노테이션을 사용할 수 있는 위치. 
+## @Target: 애노테이션을 사용할 수 있는 위치. 
   Type,Field,Method,Parameter,...
   > ElementType.TYPE : 가장 많이 쓰는 타입(클래스타입,인터페이스타입..)
   ```java
@@ -70,7 +70,7 @@
   }
   
   ```  
-* @Documented  
+## @Documented  
 ```java
 @Documented
 public @interface MyAnnotation{}
