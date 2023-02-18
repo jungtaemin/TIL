@@ -16,7 +16,7 @@
 * [Thread](https://github.com/jungtaemin/TIL/blob/main/Java/Thread.md)
 * [Strong,Soft,Weak,Phantom](https://github.com/jungtaemin/TIL/blob/main/Java/Strong%2CSoft%2CWeak%2CPhantom.md)
 * [캡슐화](https://github.com/jungtaemin/TIL/blob/main/Java/%EC%BA%A1%EC%8A%90%ED%99%94.md)
-* [비검사 경고]()
+* [비검사 경고](https://github.com/jungtaemin/TIL/blob/main/Java/%EB%B9%84%EA%B2%80%EC%82%AC%20%EA%B2%BD%EA%B3%A0.md)
 * [불변클래스](https://github.com/jungtaemin/TIL/blob/main/Java/%EB%B6%88%EB%B3%80%ED%81%B4%EB%9E%98%EC%8A%A4.md)
 * [중첩클래스](https://github.com/jungtaemin/TIL/blob/main/Java/%EC%A4%91%EC%B2%A9%ED%81%B4%EB%9E%98%EC%8A%A4.md)
 * [enum(자바5)](https://github.com/jungtaemin/TIL/blob/main/Java/enum.md) - 책 이펙티브 자바 3/E 참고
@@ -38,6 +38,7 @@
 자바 롱텀 서포트 버전 8 11 17 중 11 17 추천 8 오래됨  
 기본적 용어 정리-[api](https://github.com/jungtaemin/TIL/blob/main/Java/%EA%B8%B0%EB%B3%B8%EC%A0%81%20%EC%9A%A9%EC%96%B4%20%EC%A0%95%EB%A6%AC.md#api)
 ## Spring
+* [annotation](https://github.com/jungtaemin/TIL/blob/main/spring/annotation.md)
 * [자원을 직접 명시하지 말고 의존 객체 주입을 사용하라.](https://github.com/jungtaemin/TIL/blob/main/spring/%EC%9E%90%EC%9B%90%EC%9D%84%20%EC%A7%81%EC%A0%91%20%EB%AA%85%EC%8B%9C%ED%95%98%EC%A7%80%20%EB%A7%90%EA%B3%A0%20%EC%9D%98%EC%A1%B4%20%EA%B0%9D%EC%B2%B4%20%EC%A3%BC%EC%9E%85%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.md)(책 이펙티브자바 아이템 5)
 * [IoC](https://github.com/jungtaemin/TIL/blob/main/spring/IoC.md)
 * Test(!다음직장에서 테스트 작성시 꼭 공부많이할것)
