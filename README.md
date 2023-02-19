@@ -9,6 +9,7 @@
 * [불필요한 객체 생성을 피하라](https://github.com/jungtaemin/TIL/blob/main/%EA%B0%9D%EC%B2%B4%20%EC%83%9D%EC%84%B1/%EB%B6%88%ED%95%84%EC%9A%94%ED%95%9C%20%EA%B0%9D%EC%B2%B4%20%EC%83%9D%EC%84%B1%EC%9D%84%20%ED%94%BC%ED%95%98%EB%9D%BC.md)(책 이펙티브자바 아이템6)
 ## JAVA
 * [인터페이스](https://github.com/jungtaemin/TIL/blob/main/Java/Interface.md)
+* [배열보다는 리스트를 사용하라.]()(책 이펙티브자바 아이템 28)
 * [자바 메모리](https://github.com/jungtaemin/TIL/blob/main/Java/%EC%9E%90%EB%B0%94%20%EB%A9%94%EB%AA%A8%EB%A6%AC.md)
 * [JVM](https://github.com/jungtaemin/TIL/blob/main/Java/JVM.md)
 * [가비지 컬렉션](https://github.com/jungtaemin/TIL/blob/main/Java/%EA%B0%80%EB%B9%84%EC%A7%80%20%EC%BB%AC%EB%A0%89%EC%85%98.md)
