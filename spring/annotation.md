@@ -70,6 +70,30 @@
   }
   
   ```  
+# annotation 종류
+* **controller 에서 많이쓰는 annotation**
+  * [@ModelAttribute/@RequestBody](https://github.com/jungtaemin/TIL/blob/main/spring/annotation.md#@ModelAttribute/@RequestBody)
+  * @RequestParam
+* [@Documented](https://github.com/jungtaemin/TIL/blob/main/spring/annotation.md#@Documented)
+* @Override
+## @ModelAttribute/@RequestBody
+>공통점  
+
+두 애노테이션 다 클라이언트 측에서 보낸 데이터를 Java 코드에서 사용할 수 있는 오브젝트로 만들어주는 애노테이션이다.
+>차이점  
+
+**@ModelAttribute**  
+
+@ModelAttribute 애너테이션의 역할은 클라이언트가 보내는 HTTP 파라미터들을 특정 Java Object에 바인딩(맵핑) 하는 것입니다  
+객체의 필드에 접근해 데이터를 바인딩할 수 있는 생성자 혹은 setter 메서드가 필요하다.  
+Query String 및 Form 형식이 아닌 데이터는 처리할 수 없다.
+**@RequestBody**
+
+클라이언트가 보내는 HTTP 요청 본문(JSON 및 XML 등)을 Java 오브젝트로 변환하는 것입니다.  
+HTTP 요청 본문 데이터는 Spring에서 제공하는 HttpMessageConverter를 통해 타입에 맞는 객체로 변환됩니다.    
+@RequestBody를 사용할 객체는 필드를 바인딩할 생성자나 setter 메서드가 필요없다.
+## @RequestParam
+@RequestParam은 1개의 HTTP 요청 파라미터를 받기 위해서 사용한다
 ## @Documented  
 ```java
 @Documented
@@ -78,6 +102,7 @@ public @interface MyAnnotation{}
 이 애노테이션이 사용한 자바Doc을 만들때 이 애노테이션 정보가 자바Doc에 포함된다.
 >사용하는 애너테이션 종류
 * @Override
+
 ## @Override
 컴파일타임에 실제로 이메서드가  인터페이스에 구현하는 메서드가 맞는지 시그니처를 확인해준다.
 ```java
