@@ -44,5 +44,10 @@
 * [IoC](https://github.com/jungtaemin/TIL/blob/main/spring/IoC.md)
 * Test(!다음직장에서 테스트 작성시 꼭 공부많이할것)
 
+## JPA
+* [엔티티 매핑]()
+* [영속성 컨텍스트]()
+* [transaction]()
+
 [**읽은책,강의 정리**](https://github.com/jungtaemin/TIL/blob/main/%EC%9D%BD%EC%9D%80%EC%B1%85%2C%EA%B0%95%EC%9D%98%EC%A0%95%EB%A6%AC/%EC%9D%BD%EC%9D%80%EC%B1%85%2C%EA%B0%95%EC%9D%98%EC%A0%95%EB%A6%AC.md)
 
