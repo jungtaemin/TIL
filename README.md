@@ -45,9 +45,9 @@
 * Test(!다음직장에서 테스트 작성시 꼭 공부많이할것)
 
 ## JPA
-* [엔티티 매핑]()
-* [영속성 컨텍스트]()
-* [transaction]()
+* [엔티티 매핑](https://github.com/jungtaemin/TIL/blob/main/JPA/%EC%97%94%ED%8B%B0%ED%8B%B0%20%EB%A7%A4%ED%95%91.md)
+* [영속성 컨텍스트](https://github.com/jungtaemin/TIL/blob/main/JPA/%EC%98%81%EC%86%8D%EC%84%B1%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8.md)
+* [transaction](https://github.com/jungtaemin/TIL/blob/main/JPA/transaction.md)
 
 [**읽은책,강의 정리**](https://github.com/jungtaemin/TIL/blob/main/%EC%9D%BD%EC%9D%80%EC%B1%85%2C%EA%B0%95%EC%9D%98%EC%A0%95%EB%A6%AC/%EC%9D%BD%EC%9D%80%EC%B1%85%2C%EA%B0%95%EC%9D%98%EC%A0%95%EB%A6%AC.md)
 
