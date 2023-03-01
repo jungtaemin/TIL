@@ -46,8 +46,14 @@
 
 ## JPA
 * [엔티티 매핑](https://github.com/jungtaemin/TIL/blob/main/JPA/%EC%97%94%ED%8B%B0%ED%8B%B0%20%EB%A7%A4%ED%95%91.md)
+* [연관관계 매핑](https://github.com/jungtaemin/TIL/blob/main/JPA/%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%20%EB%A7%A4%ED%95%91.md)
+* [Domain,Dto](https://github.com/jungtaemin/TIL/blob/main/JPA/Domain%2CDto.md)
+* [service](https://github.com/jungtaemin/TIL/blob/main/JPA/service.md)
+* [JpaRepository](https://github.com/jungtaemin/TIL/blob/main/JPA/JpaRepository.md)
 * [영속성 컨텍스트](https://github.com/jungtaemin/TIL/blob/main/JPA/%EC%98%81%EC%86%8D%EC%84%B1%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8.md)
 * [transaction](https://github.com/jungtaemin/TIL/blob/main/JPA/transaction.md)
+* [즉시로딩,지연로딩(프록시)](https://github.com/jungtaemin/TIL/blob/main/JPA/%EC%A6%89%EC%8B%9C%EB%A1%9C%EB%94%A9%2C%EC%A7%80%EC%97%B0%EB%A1%9C%EB%94%A9(%ED%94%84%EB%A1%9D%EC%8B%9C).md)
+* [페이징과 정렬](https://github.com/jungtaemin/TIL/blob/main/JPA/%ED%8E%98%EC%9D%B4%EC%A7%95%EA%B3%BC%20%EC%A0%95%EB%A0%AC.md)
 
 [**읽은책,강의 정리**](https://github.com/jungtaemin/TIL/blob/main/%EC%9D%BD%EC%9D%80%EC%B1%85%2C%EA%B0%95%EC%9D%98%EC%A0%95%EB%A6%AC/%EC%9D%BD%EC%9D%80%EC%B1%85%2C%EA%B0%95%EC%9D%98%EC%A0%95%EB%A6%AC.md)
 

@@ -57,6 +57,7 @@ By뒤에 필드에 해당하는 파라미터값이 일치하는 데이터 들고
 
 > !이 기능은 엔티티의 필드명이 변경되면 인터페이스에 정의한 메서드 이름도 꼭 함께 변경해야 한다.그렇지 안흥면 애플리케이션을 시작하는 시점에 오류가 발생한다.이렇게 애플리케이션 로딩 시점에 오류를 인지할 수 있는 것이 스프링 데이터 JPA의 매우 큰 장점이다.
 
+
 ## @Query(복잡한것 할때)
 **리포지토리 메소드에 쿼리 정의하기**   
 JPQL을 바로 적을 수 있다  
@@ -77,3 +78,16 @@ List<String> findUsernameList();
 List<Member> findByNames(@Param("names") Collection<String> names);
 ```
 ## QueryDSL(동적쿼리)
+
+
+## 패치조인,EntityGraph
+
+> **@EntityGraph(간단한 조인일 경우)**
+```java
+@Override
+@EntityGraph(attributePaths ={"team"})
+List<Member> findAll();
+```
+* EntityGraph은 패치조인을 쉽게해주는 애노테이션이다. 지연로딩이라서 조인된 entity를 가짜 프록시객체로 참조하다가 불러왔을때 다시 select하는데 EntityGraph를 사용하면 조인해서 같이 가져온다.
+
+> 패치조인(복잡한 조인일 경우)
