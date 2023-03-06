@@ -78,9 +78,9 @@ List<String> findUsernameList();
 List<Member> findByNames(@Param("names") Collection<String> names);
 ```
 ## QueryDSL(동적쿼리)
+## 자주쓰는 annotation
 
-
-## 패치조인,EntityGraph
+### 패치조인,EntityGraph
 
 > **@EntityGraph(간단한 조인일 경우)**
 ```java
@@ -90,4 +90,28 @@ List<Member> findAll();
 ```
 * EntityGraph은 패치조인을 쉽게해주는 애노테이션이다. 지연로딩이라서 조인된 entity를 가짜 프록시객체로 참조하다가 불러왔을때 다시 select하는데 EntityGraph를 사용하면 조인해서 같이 가져온다.
 
-> 패치조인(복잡한 조인일 경우)
+> **패치조인**(복잡한 조인일 경우)
+```java
+"select o from Order o join fetch o.member m"
+```
+> **QueryHints**(생각보다 쓸일 없다.)
+```java
+@QueryHints(value = @QueryHint(name = "org.hibernate.readOnly", value ="true"))
+Member findReadOnlyByUsername(String username);
+```
+원래는 find만 하면 변경감지를 사용하기위해 스냅샷도 하는데 QueryHints readOnly를 쓰면 스냅샷을 만들지않는다.(성능최적화인데 생각보다 성능최적화가 크지는않다.)
+
+> **@Lock**
+```java
+@Lock(LockModeType.PESSIMISTIC_WRITE)
+List<Member> findLockByUsername(String username);
+```
+
+### 권장 순서
+엔티티 조회 방식으로 우선 접근 ->  
+페치조인으로 쿼리 수를 최적화(manytoone관계) ->  
+컬렉션은..(OneToMany) ->  
+페이징 필요: hibernate.default_batch_fetch_size ,@BatchSize로 최적화  
+페이징 필요 x : 페치 조인 사용  ->  
+엔티티 조회 방식으로 해결이 안되면 DTO 조회 방식 사용->  
+DTO 조회 방식으로 해결이 안되면 NativeSQL or 스프링 JdbcTemplate
